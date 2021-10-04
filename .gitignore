@@ -1,0 +1,7 @@
+.vscode
+.ipynb_checkpoints
+191T_py3/
+startenv.cmd
+StartJupyterLab.bat
+NNFS.pdf
+*.pdf
